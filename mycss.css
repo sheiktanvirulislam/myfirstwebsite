@@ -1,5 +1,11 @@
 p{
-   color: red;
-   background-color:cadetblue ;
+   color:black;
+   background-color:cyan ;
+   font-size: 30px; 
+   text-align: justify;
+}
+h1{
+    color: brown;
+    text-align: center;
 
 }
